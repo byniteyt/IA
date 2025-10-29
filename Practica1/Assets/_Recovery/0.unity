@@ -5142,7 +5142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4549428611729446, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5
+      value: 4.529999
       objectReference: {fileID: 0}
     - target: {fileID: 4549428611729446, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5150,7 +5150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4549428611729446, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.5
+      value: 4.55
       objectReference: {fileID: 0}
     - target: {fileID: 4549428611729446, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5186,7 +5186,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 730623413240138495, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: navigationAgent
-      value: GrupoB.SearchAgent
+      value: Navigation.Agent.BaseSearchAgent
       objectReference: {fileID: 0}
     - target: {fileID: 730623413240138495, guid: b5edc09c705c52d449716a4e5ef0c91d, type: 3}
       propertyPath: navigationClass
